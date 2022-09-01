@@ -1,0 +1,12 @@
+.git
+.ideal
+.DS_Store
+.docker
+.Python
+env/
+venv/
+dist/
+node_modules/
+.gradle
+.settings/
+bazel-*/
